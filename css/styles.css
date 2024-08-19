@@ -1,0 +1,92 @@
+/* hero section */
+.hero {
+  color: white;
+  padding: 100px 30px;
+  background-image: url("../asset/pexels-ella-olsson-572949-1640777.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.hero h1 {
+  font-size: 5rem;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+/* top dishes section */
+
+.ca-s {
+  height: 100%;
+  width: 100%;
+}
+.ca-si {
+  height: 100%;
+  width: 100%;
+}
+
+.top-dishes img {
+  width: 100%;
+  border-radius: 10px;
+}
+.top-dishes .card {
+  border: none;
+}
+
+/* Experience */
+.section {
+  height: 30vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn-design {
+  display: inline-block;
+  margin: 10px;
+  border-radius: 10px;
+  background-color: #222;
+  text-decoration: none;
+}
+.btn-design img {
+  display: inline-block;
+  margin: 10px;
+  border-radius: 10px;
+  background-color: #222;
+  text-decoration: none;
+}
+.section h5 {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+/* <!-- footer about section --> */
+
+a {
+  text-decoration: none;
+  color: aliceblue;
+}
+
+.social-icons a {
+  margin-left: 30px;
+}
+.brand {
+  font-size: 3rem;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+.social-icons a i {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+/* footer */
+
+.footer {
+  background-color: #222;
+  color: white;
+  padding: 5px 0;
+}
